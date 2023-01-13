@@ -27,7 +27,7 @@
    "source": [
     "## Your Task: Analyzing Health Trends\n",
     "\n",
-    "![tissues and tea mug](images/sick_day.jpg)\n",
+    "![tissues and tea mug](sick_day.jpg)\n",
     "\n",
     
    ]
