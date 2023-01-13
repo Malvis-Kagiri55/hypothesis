@@ -29,7 +29,7 @@
     "\n",
     "![tissues and tea mug](images/sick_day.jpg)\n",
     "\n",
-    "Photo by <a href=\"https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Kelly Sikkema</a> on <a href=\"/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>"
+    
    ]
   },
   {
